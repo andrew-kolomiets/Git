@@ -1,6 +1,12 @@
+Вивчаємо Git репозиторій!
 
-https://githowto.com/uk
-https://git-scm.com/book/uk/v2
+  Література для роботи з Git репозитрієм:
+  
+    - https://githowto.com/uk
+    - https://git-scm.com/book/uk/v2
+    - https://habr.com/ru/post/588801/
 
-https://learngitbranching.js.org/?locale=uk
+  Інтерактивний вебсайт для практики роботи з Git репозиторієм:
+  
+    - https://learngitbranching.js.org/?locale=uk
 
